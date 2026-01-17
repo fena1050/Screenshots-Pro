@@ -74,6 +74,12 @@ export const metadata: Metadata = {
     canonical: 'https://theappscreenshot.firebaseapp.com',
   },
   category: 'technology',
+  verification: {
+    google: '9MZBSzlwQ8xWnkS8_VcK-hjhMvmF8gHm7ePirZXW37Y',
+  },
+  other: {
+    'google-site-verification': '9MZBSzlwQ8xWnkS8_VcK-hjhMvmF8gHm7ePirZXW37Y',
+  },
 }
 
 // JSON-LD Structured Data
