@@ -1,0 +1,9 @@
+# Robots.txt for AppScreenshot
+# https://theappscreenshot.firebaseapp.com
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://theappscreenshot.firebaseapp.com/sitemap.xml
+
